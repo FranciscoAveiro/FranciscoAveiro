@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola 👋 Soy Francisco Aveiro
 
-<!--
-**FranciscoAveiro/FranciscoAveiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abogado, Notario y Especialista en Didáctica Universitaria con más de 10 años creando contenido jurídico y educativo digital en español e inglés.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+- 🌐 [Fudgel Media (sitio central)](https://sites.google.com/view/fudgelmedia/)
+- 📘 [WikiFudgel Blog](https://wikifudgel.blogspot.com/)
+- ⚖️ [Tereré Jurídico Blog](https://abogadoparaguayo.blogspot.com/)
+- 🎒 [Fudgeling Blog](https://fudgelmedia.blogspot.com/)
+
+---
+
+## Canales de YouTube
+
+- 📺 [Tereré Jurídico](https://www.youtube.com/@TereréJurídico)
+- 📺 [WikiFudgel](https://www.youtube.com/@WikiFudgel)
+
+---
+
+¡Gracias por visitar!
